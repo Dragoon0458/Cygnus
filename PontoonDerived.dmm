@@ -8,7 +8,6 @@
 "co" = (/obj/structure/window/plastitanium/full,/obj/structure/grille,/obj/machinery/door/blast/regular,/obj/machinery/door/firedoor/glass,/turf/simulated/wall/r_wall,/area/space)
 "cI" = (/obj/structure/table/standard,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/belt/medical,/obj/effect/floor_decal/corner/paleblue{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "cQ" = (/turf/simulated/floor/plating,/area/space)
-"da" = (/obj/structure/table/standard,/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 1},/obj/machinery/alarm{dir = 4; pixel_x = -25},/obj/machinery/firealarm{dir = 1; pixel_y = -24},/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "df" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "dg" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 9; icon_state = "intact"},/obj/effect/floor_decal/corner/paleblue/border,/obj/machinery/firealarm{dir = 1; pixel_y = -24},/turf/simulated/floor/tiled/white,/area/space)
 "dW" = (/obj/machinery/vending/snack,/turf/simulated/floor/tiled/white,/area/space)
@@ -18,11 +17,11 @@
 "ge" = (/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/corner/paleblue{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "gr" = (/obj/structure/reagent_dispensers/water_cooler/full,/turf/simulated/floor/tiled/white,/area/space)
 "gR" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
-"hf" = (/obj/machinery/door/airlock/medical{name = "Operating Theatre 3"; req_access = list(45)},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "hj" = (/obj/structure/cable{icon_state = "1-2"},/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "hz" = (/obj/effect/floor_decal/corner/paleblue{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "hS" = (/obj/machinery/power/apc{dir = 8; name = "west bump"; pixel_x = -28},/obj/structure/cable{icon_state = "0-4"},/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "ii" = (/obj/machinery/smartfridge/secure/medbay{req_one_access = list(33,66)},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
+"in" = (/obj/structure/table/standard,/obj/item/weapon/storage/firstaid/surgery,/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "io" = (/obj/effect/floor_decal/corner/paleblue/border,/obj/structure/table/standard,/obj/item/weapon/storage/box/masks{pixel_y = 0},/obj/item/weapon/storage/box/gloves{pixel_x = 4; pixel_y = 4},/obj/item/weapon/storage/box/syringes{pixel_x = 4; pixel_y = 4},/obj/item/weapon/storage/box/beakers,/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "iq" = (/turf/simulated/wall/virgo2,/area/space)
 "iT" = (/obj/machinery/sleep_console,/turf/simulated/floor/tiled/white,/area/space)
@@ -34,7 +33,6 @@
 "lU" = (/obj/machinery/atmospherics/pipe/manifold/visible{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "mc" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/white,/area/space)
 "mo" = (/obj/machinery/computer/operating,/obj/effect/floor_decal/corner/paleblue/border{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
-"nh" = (/obj/machinery/door/airlock/medical{name = "Operating Theatre 4"; req_access = list(45)},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "nl" = (/turf/simulated/goreeyes,/area/space)
 "nD" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "ov" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/wall,/area/space)
@@ -46,8 +44,8 @@
 "pV" = (/obj/structure/cable{icon_state = "1-2"},/obj/structure/cable{icon_state = "2-4"},/obj/effect/floor_decal/corner/paleblue{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "qj" = (/obj/structure/closet/secure_closet/medical3,/obj/effect/floor_decal/corner/paleblue/border,/turf/simulated/floor/tiled/white,/area/space)
 "qw" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/obj/structure/cable{icon_state = "0-2"},/turf/simulated/floor/tiled/white,/area/space)
-"qz" = (/obj/machinery/door/airlock/medical{name = "Operating Theatre 2"; req_access = list(45)},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "qK" = (/obj/machinery/atmospherics/unary/vent_pump/on,/turf/simulated/floor/tiled/white,/area/space)
+"qU" = (/obj/machinery/atmospherics/unary/vent_pump/on,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/obj/structure/closet/secure_closet/medical2,/obj/effect/floor_decal/corner/paleblue/border{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "rg" = (/obj/effect/forcefield,/turf/simulated/floor/plating,/area/space)
 "rO" = (/obj/effect/floor_decal/corner/paleblue/full{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "rW" = (/turf/simulated/wall,/area/bridge)
@@ -56,10 +54,11 @@
 "sP" = (/obj/structure/window/basic/full,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/holofloor/wood,/area/space)
 "tg" = (/obj/machinery/atmospherics/unary/vent_scrubber/on,/obj/structure/cable{icon_state = "2-8"},/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "tN" = (/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
-"ui" = (/obj/structure/closet/secure_closet/medical2,/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "um" = (/turf/simulated/wall,/area/space)
 "ur" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
+"uD" = (/obj/machinery/door/airlock/medical{name = "Operating Theatre 4"; req_access = list(45)},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/wall,/area/space)
 "vi" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/toxin,/obj/item/weapon/storage/firstaid/toxin,/obj/item/weapon/storage/firstaid/toxin,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
+"vA" = (/obj/machinery/shower{dir = 4},/obj/structure/window/reinforced,/obj/machinery/door/window/northleft{dir = 4; name = "Shower"; req_access = list()},/obj/structure/curtain/open/shower/medical{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/tiled/freezer,/area/space)
 "vP" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/plating,/area/space)
 "wp" = (/obj/structure/cable{icon_state = "1-4"},/turf/simulated/floor/tiled/white,/area/space)
 "xg" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
@@ -74,23 +73,23 @@
 "zX" = (/turf/unsimulated/shuttle/floor,/area/space)
 "Ar" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/machinery/atmospherics/unary/cryo_cell,/turf/simulated/floor/tiled/white,/area/space)
 "Ba" = (/obj/structure/table/reinforced,/obj/machinery/door/window/northleft,/obj/machinery/door/window/southleft,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
-"Bh" = (/obj/structure/cable{icon_state = "1-8"},/turf/simulated/floor/tiled/white,/area/space)
 "Bw" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/structure/table/glass,/obj/item/device/mass_spectrometer/adv,/obj/item/weapon/reagent_containers/glass/beaker/large,/obj/item/weapon/reagent_containers/glass/beaker/large,/turf/simulated/floor/tiled/white,/area/space)
 "BA" = (/obj/machinery/disposal,/obj/machinery/alarm{pixel_y = 25},/turf/simulated/floor/tiled/white,/area/space)
 "BX" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/space)
 "Ch" = (/obj/structure/table/standard,/obj/item/bodybag/cryobag,/obj/item/bodybag/cryobag,/obj/item/bodybag/cryobag,/turf/simulated/floor/tiled/white,/area/space)
 "Cq" = (/obj/effect/floor_decal/industrial/warning{dir = 1},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
 "Dk" = (/turf/simulated/floor/tiled,/area/space)
-"Dm" = (/obj/structure/table/standard,/obj/machinery/atmospherics/unary/vent_pump/on{dir = 1},/obj/effect/floor_decal/corner/paleblue/border,/turf/simulated/floor/tiled/white,/area/space)
 "DF" = (/obj/effect/floor_decal/corner/paleblue{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "DS" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/structure/cable{icon_state = "0-8"},/obj/structure/bed/chair/wheelchair,/obj/effect/floor_decal/corner/paleblue/bordercorner,/turf/simulated/floor/tiled/white,/area/space)
 "En" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 5},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/white,/area/space)
+"EQ" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/structure/table/rack,/obj/item/stack/medical/advanced/bruise_pack,/turf/simulated/floor/tiled/white,/area/space)
 "Fh" = (/obj/machinery/door/airlock/medical{name = "Cloning-Cryogenics Laboratory"},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
 "Fk" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/regular,/obj/item/weapon/storage/firstaid/regular,/obj/item/weapon/storage/firstaid/regular,/turf/simulated/floor/tiled/white,/area/space)
 "FA" = (/obj/structure/cable{icon_state = "1-4"},/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/structure/closet/secure_closet/medical_wall/pills{pixel_x = -32},/turf/simulated/floor/tiled/white,/area/space)
 "FD" = (/turf/simulated/floor/tiled/techfloor/grid,/area/space)
 "FG" = (/obj/machinery/clonepod,/obj/effect/floor_decal/corner/paleblue/border{dir = 6},/obj/machinery/atmospherics/unary/vent_scrubber/on{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "Gi" = (/turf/simulated/floor/plating,/area/bridge)
+"Gp" = (/obj/structure/curtain/medical,/turf/simulated/floor/tiled/white,/area/space)
 "GH" = (/obj/structure/table/glass,/obj/item/weapon/storage/box/beakers,/obj/item/weapon/storage/box/syringes{pixel_x = 4; pixel_y = 4},/obj/item/weapon/reagent_containers/dropper,/obj/machinery/light{dir = 1},/obj/effect/floor_decal/corner/paleblue/border{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "GN" = (/obj/structure/bed/chair/office/light{dir = 4},/turf/simulated/floor/holofloor/wood,/area/space)
 "GY" = (/turf/simulated/gore,/area/space)
@@ -100,11 +99,9 @@
 "IC" = (/obj/machinery/door/airlock/glass_medical{name = "Chemistry Laboratory"; req_access = list(33)},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
 "IT" = (/obj/structure/closet/secure_closet/medical3,/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "JC" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/machinery/atmospherics/unary/freezer{dir = 4; icon_state = "freezer"},/turf/simulated/floor/tiled/white,/area/space)
-"JE" = (/obj/machinery/iv_drip,/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_y = 28},/obj/structure/cable{icon_state = "0-2"},/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "Kc" = (/obj/effect/floor_decal/corner/paleblue{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
 "Ke" = (/obj/machinery/door/airlock/glass_medical{name = "Medbay Equipment"; req_access = list(5)},/obj/machinery/door/firedoor/glass,/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
 "Kh" = (/obj/effect/floor_decal/corner/paleblue{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
-"Kz" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "KX" = (/obj/asteroid_spawner,/turf/simulated/floor/plating,/area/space)
 "Lb" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/obj/machinery/atmospherics/pipe/simple/visible{dir = 10; icon_state = "intact"},/obj/machinery/alarm{pixel_y = 25},/turf/simulated/floor/tiled/white,/area/space)
 "Lz" = (/obj/machinery/optable,/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
@@ -113,21 +110,21 @@
 "MT" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/turf/simulated/floor/tiled/white,/area/space)
 "Nf" = (/obj/effect/floor_decal/corner/paleblue/border/shifted{dir = 9},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/tiled/white,/area/space)
 "Nr" = (/obj/structure/window/basic/full,/turf/simulated/floor/tiled/white,/area/space)
+"NJ" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "NY" = (/obj/effect/floor_decal/corner/paleblue{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "Oc" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/bonemed,/obj/item/weapon/storage/firstaid/bonemed,/obj/item/weapon/storage/firstaid/bonemed,/obj/effect/floor_decal/corner/paleblue/border{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "Ot" = (/obj/structure/table/woodentable,/obj/machinery/atmospherics/unary/vent_pump/on{dir = 4},/turf/simulated/floor/holofloor/wood,/area/space)
 "Oz" = (/obj/machinery/computer/med_data{dir = 4},/turf/simulated/floor/holofloor/wood,/area/space)
 "OK" = (/obj/structure/table/standard,/obj/item/roller,/obj/item/roller,/obj/item/roller,/turf/simulated/floor/tiled/white,/area/space)
-"Pw" = (/obj/machinery/firealarm{dir = 4; pixel_x = 26},/obj/effect/floor_decal/corner/paleblue{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "PL" = (/turf/simulated/wall/r_wall,/area/space)
 "PS" = (/obj/effect/floor_decal/corner/paleblue/border,/obj/structure/closet/secure_closet/medical3,/turf/simulated/floor/tiled/white,/area/space)
 "PX" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
 "PY" = (/obj/machinery/dna_scannernew,/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/turf/simulated/floor/tiled/white,/area/space)
-"Qx" = (/obj/structure/table/standard,/obj/effect/floor_decal/corner/paleblue/border,/obj/item/stack/medical/advanced/bruise_pack,/turf/simulated/floor/tiled/white,/area/space)
 "RN" = (/obj/machinery/computer/cloning{dir = 8},/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
 "RR" = (/obj/structure/cable{icon_state = "1-2"},/obj/effect/floor_decal/corner/paleblue{dir = 5},/turf/simulated/floor/tiled/white,/area/space)
 "Sa" = (/obj/machinery/portable_atmospherics/canister/oxygen,/obj/machinery/atmospherics/portables_connector{dir = 4},/obj/effect/floor_decal/industrial/hatch/yellow,/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "Sd" = (/obj/machinery/firealarm{dir = 4; pixel_x = 26},/turf/simulated/floor/holofloor/wood,/area/space)
+"Ss" = (/obj/machinery/iv_drip,/obj/structure/cable{icon_state = "0-2"},/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "Su" = (/obj/machinery/chemical_dispenser/full,/obj/structure/table/standard,/obj/machinery/light,/obj/machinery/firealarm{dir = 8; pixel_x = -24},/obj/effect/floor_decal/corner/paleblue/border{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
 "SL" = (/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/corner/paleblue,/turf/simulated/floor/tiled/white,/area/space)
 "ST" = (/obj/item/extraction_pack,/turf/space,/area/space)
@@ -136,12 +133,13 @@
 "Te" = (/obj/machinery/disposal,/turf/simulated/floor/holofloor/wood,/area/space)
 "Th" = (/obj/effect/floor_decal/industrial/warning,/turf/simulated/floor/plating,/area/space)
 "Tm" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
+"TG" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/effect/floor_decal/corner/paleblue/border{dir = 1},/obj/structure/table/rack,/obj/item/stack/medical/advanced/bruise_pack,/turf/simulated/floor/tiled/white,/area/space)
 "TQ" = (/obj/machinery/alarm{dir = 8; pixel_x = 25},/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/holofloor/wood,/area/space)
 "TY" = (/obj/structure/cable{icon_state = "1-2"},/turf/simulated/floor/tiled/white,/area/space)
+"Uw" = (/obj/structure/closet/secure_closet/medical2,/obj/effect/floor_decal/corner/paleblue/border{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "UI" = (/obj/structure/table/rack,/obj/item/weapon/storage/firstaid/fire,/obj/item/weapon/storage/firstaid/fire,/obj/item/weapon/storage/firstaid/fire,/obj/effect/floor_decal/corner/paleblue/border{dir = 9},/turf/simulated/floor/tiled/white,/area/space)
 "UO" = (/obj/effect/floor_decal/corner/paleblue/border{dir = 4},/obj/machinery/disposal,/turf/simulated/floor/tiled/white,/area/space)
 "VH" = (/obj/effect/floor_decal/corner/paleblue/border/shifted{dir = 10},/turf/simulated/floor/tiled/white,/area/space)
-"VZ" = (/obj/machinery/shower{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/machinery/door/window/northleft{name = "Shower"; req_access = list()},/obj/structure/curtain/open/shower/medical,/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/tiled/freezer,/area/space)
 "Wj" = (/obj/structure/cable{icon_state = "4-8"},/obj/effect/floor_decal/corner/paleblue{dir = 1},/obj/structure/cable{icon_state = "2-8"},/turf/simulated/floor/tiled/white,/area/space)
 "WB" = (/obj/asteroid_spawner,/obj/effect/forcefield,/turf/simulated/floor/plating,/area/space)
 "WF" = (/obj/structure/cable{icon_state = "1-2"},/obj/effect/floor_decal/corner/paleblue/border{dir = 8},/obj/machinery/firealarm{dir = 8; pixel_x = -24},/turf/simulated/floor/tiled/white,/area/space)
@@ -151,7 +149,6 @@
 "XX" = (/obj/machinery/door/airlock/command{id_tag = "cmodoor"; name = "CMO's Office"; req_access = list(40)},/obj/structure/cable{icon_state = "1-2"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/holofloor/wood,/area/space)
 "XZ" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 28},/obj/structure/cable,/turf/simulated/floor/holofloor/wood,/area/space)
 "Yu" = (/obj/machinery/vending/medical,/turf/simulated/floor/tiled/white,/area/space)
-"YS" = (/obj/machinery/door/airlock/medical{name = "Operating Theatre 1"; req_access = list(45)},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/white,/area/space)
 "Ze" = (/obj/structure/table/standard,/obj/item/weapon/reagent_containers/spray/cleaner,/obj/item/weapon/reagent_containers/spray/cleaner,/obj/item/weapon/reagent_containers/spray/cleaner,/obj/effect/floor_decal/corner/paleblue{dir = 6},/turf/simulated/floor/tiled/white,/area/space)
 "Zg" = (/obj/effect/floor_decal/corner/paleblue/bordercorner{dir = 1},/turf/simulated/floor/tiled/white,/area/space)
 "Zi" = (/obj/machinery/sleeper{dir = 8},/turf/simulated/floor/tiled/white,/area/space)
@@ -303,22 +300,22 @@ WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDk
 WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
 WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
 WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumumcQcQumumumumumumDkbmbmDkumumumumumumcQcQumumDkDkDkumiiBaumumumfctNSLumumumumumumumumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLumBXumumumcQcQumumumumumumumDkDkumumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumhStgGHNrYuDFTYhzNYNYumuiJELzmoumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumlqTYBwNryXDFXPgRgRxgYSKzBhIuPXumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumHrTYUONryXDFaqZiiTDFumdaDmQxHHumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumSusEblNraeDFaqIuIuPwumumumumumumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumumICumumdWDFaqZppuDFumuiJELzmoumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumumcQcQumumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumqKTYqwBArOKhpVmcmcTmqzKzBhIuPXumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkumumumumumumumumumumDkbmbmDkumumumumumumumumumumDkDkDkgeNYRRRRNYKhIuKcZiiTDFumdaDmQxHHumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLumBXumumumcQcQumumumumumumumDkDkumumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumhStgGHNrYuDFTYhzNYNYumqUSsLzmoumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumlqTYBwNryXDFXPgRgRxgumTGIuIuinumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumHrTYUONryXDFaqZiiTDFumGpGpIuPXumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumSusEblNraeDFaqIuIuDFuDIuIuumumumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumumICumumdWDFaqZppuDFumGpGpIuNJumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkumumcQcQumumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkDkumDkDkDkDkDkDkDkDkumDkDkDkumqKTYqwBArOKhpVmcmcTmumEQIuIuHHumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkumumumumumumumumumumDkbmbmDkumumumumumumumumumumDkDkDkgeNYRRRRNYKhIuKcZiiTDFumUwSsLzmoumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
 WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkurmcaDaDpCmcpCyZIuIuDFumumumumumumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkSLsIsIsITYIuTYbNZppuDFumuiJELzmoumDkDkPLPLPLWKWKWKFkIuZeWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumumumumIuIuwpdfEnnDWjhfKzBhIuPXumDkDkPLPLPLWKWKWKOKChcIWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLumvPumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumxRIuxRIuIuIuIuTYIuTYumdaDmQxHHumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkbmbmDkDkDkDkDkDkDkDkDkDkDkDkDkDkumIuIuIuIuIuIuIuIuIuIuumumumumumumDkDkPLPLPLWKWKWKgrVZYuWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumxRIuxRIuIuIuIuIuIuIuumuiJELzmoumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumIuIuIuIuIuIuIuIuIuIunhKzBhIuPXumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumxRIuIuIuIuIuIuIuIuIuumdaDmQxHHumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
-WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumIuIuIuIuIuIuIuIuIuIuumumumumumumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkSLsIsIsITYIuTYbNZppuDFumqUSsLzmoumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumumumumvAIuwpdfEnnDWjumTGIuIuinumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLumvPumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumxRIuxRIuIuIuIuTYIuTYumGpGpIuPXumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkbmbmDkDkDkDkDkDkDkDkDkDkDkDkDkDkumIuIuIuIuIuIuIuIuIuIuuDIuIuumumumDkDkPLPLPLWKWKWKgrWKYuWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumxRIuxRIuIuIuIuIuIuIuumGpGpIuNJumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumIuIuIuIuIuIuIuIuIuIuumEQIuIuHHumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumxRIuIuIuFkIuZeIuIuIuumUwSsLzmoumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
+WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumIuIuIuIuOKChcIIuIuIuumumumumumumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
 WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkbmbmDkDkDkDkDkDkDkDkDkDkDkDkDkDkumsPsPsPXXumumumFhumKeumUIvizfOcumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
 WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumOzMuOtTQumyQLbZAumhjyMZgIuIuMTumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
 WKWKWKWKWKWKWKWKWKWKWKWKWKPLPLPLcQcQumDkDkDkDkDkDkDkDkDkDkDkDkDkDkumDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkDkumSZGNadXZumArlUPYumWFIuoHVHIuXaumDkDkPLPLPLWKWKWKWKWKWKWKWKWKWKWKWKWK
